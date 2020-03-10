@@ -1,0 +1,91 @@
+[
+  {
+    "id": "H1",
+    "name": "The Saban Research Institute, Children’s Hospital Los Angeles",
+    "lat": 34.09820497,
+    "lon": -118.289665,
+    "location": "Los Angeles, CA",
+    "numberLab": 56,
+    "numberWomen": 19,
+    "percentage": 34
+  },
+  {
+    "id": "H2",
+    "name": "National Institute of Child Health and Human Development",
+    "lat": 39.029433,
+    "lon": -77.135715,
+    "location": "Bethesda, MD",
+    "numberLab": 62,
+    "numberWomen": 14,
+    "percentage": 23
+  },
+  {
+    "id": "H3",
+    "name": "Boston Children’s Hospital",
+    "lat": 42.337399,
+    "lon": -71.104956,
+    "location": "Boston, MA",
+    "numberLab": 200,
+    "numberWomen": 60,
+    "percentage": 30
+  },
+  { "id": "H4",
+   "name": "Children’s Hospital of Cincinnati",
+    "lat": 39.141246000,
+    "lon": -84.501369000,
+    "location": "Cincinnati, Ohio",
+    "numberLab":195,
+    "numberWomen": 60,
+    "percentage": 31
+  },
+  {
+
+        "id": "H5",
+        "name": "St. Jude Children’s Research Hospital",
+        "lat":35.155416000,
+        "lon":-90.043592000,
+        "location": "Memphis, TN",
+        "numberLab": 101,
+        "numberWomen": 34,
+        "percentage": 34
+  },
+  {
+    "id": "H6",
+    "name": "Children’s Hospital of Philadelphia",
+    "location": "Philadelphia, PA",
+    "lat": 39.94848883,
+    "lon": -75.19396833,
+    "numberLab": 142,
+    "numberWomen": 52,
+    "percentage": 37
+  },
+  {
+    "id": "H8",
+    "name": "Texas Children’s Hospital",
+    "location": "Houston, TX",
+    "numberLab": 256,
+    "numberWomen": 121,
+    "percentage": 47,
+    "lat": 29.707869,
+    "lon": -95.401578
+  },
+  {
+    "id": "H9",
+    "name": " Children’s Hospital Oakland Research Institute",
+    "location": "Oakland, CA",
+    "numberLab": 23,
+    "numberWomen": 11,
+    "percentage": 48,
+    "lat": 37.84194667,
+    "lon": -122.2693683
+  },
+  { "id": "H7",
+    "name": "UCL Great Ormond Street Institute of Child Health",
+    "location": "London, UK",
+    "numberLab": 74,
+    "numberWomen": 32,
+    "percentage": 43,
+    "lat": 30.84194667,
+    "lon": -78.104956
+  }
+]

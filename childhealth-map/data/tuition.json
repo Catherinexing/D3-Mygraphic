@@ -1,0 +1,206 @@
+[
+  {
+    "id": "Massachusetts Institute of Technology",
+    "major": "Media",
+    "one": 0,
+    "two": 0
+  },
+  {
+    "id": "Univerisy of Miami",
+    "major": "Interactive Media",
+    "one": 91350,
+    "two": 91350
+  },
+  {
+    "id": "Univerisy of Washington",
+    "major": "Human centered design and engineering",
+    "one": 38208,
+    "two": 38208
+  },
+  {
+    "id": "Univerisy of Washington",
+    "major": "Human Computer Interaction and Design",
+    "one": 49680,
+    "two": 49680
+  },
+  {
+    "id": "University of California, Berkeley",
+    "major": "Information Management and Systems",
+    "one": 15744,
+    "two": 40234
+  },
+  {
+    "id": "University of Michigan",
+    "major": "Information",
+    "one": 31688,
+    "two": 42262
+  },
+  {
+    "id": "University of Maryland",
+    "major": "Human Computer Interaction",
+    "one": 21510,
+    "two": 46440
+  },
+  {
+    "id": "Carnegie Mellon University",
+    "major": "Human Computer Interaction",
+    "one": 72000,
+    "two": 72000
+  },
+  {
+    "id": "Carnegie Mellon University",
+    "major": "Design",
+    "one": 84000,
+    "two": 84000
+  },
+  {
+    "id": "Carnegie Mellon University",
+    "major": "Arts in Design",
+    "one": 42000,
+    "two": 42000
+  },
+  {
+    "id": "Carnegie Mellon University",
+    "major": "Interaction Design",
+    "one": 42000,
+    "two": 42000
+  },
+  {
+    "id": "Northwestern University",
+    "major": "Engineering Design Innovation",
+    "one": 90200,
+    "two": 90200
+  },
+  {
+    "id": "Indiana Univeristy",
+    "major": "Human Computer Interaction Design",
+    "one": 13837,
+    "two": 47898
+  },
+  {
+    "id": "New York University",
+    "major": "Integrated Digital Media",
+    "one": 53940,
+    "two": 53940
+  },
+  {
+    "id": "University of California, Irvine",
+    "major": "Human Computer Interaction & Design",
+    "one": 49500,
+    "two": 49500
+  },
+  {
+    "id": "Cornell University",
+    "major": "Information Science",
+    "one": 54584,
+    "two": 54584
+  },
+  {
+    "id": "Pennstate University",
+    "major": "Information",
+    "one": 24014,
+    "two": 39504
+  },
+  {
+    "id": "Rutgers University",
+    "major": "User Experience Design",
+    "one": 42398,
+    "two": 52503
+  },
+  {
+    "id": "Illinois Institute of Technology",
+    "major": "Design",
+    "one": 98004,
+    "two": 98004
+  },
+  {
+    "id": "The new school",
+    "major": "Design and Technology",
+    "one": 99688,
+    "two": 99688
+  },
+  {
+    "id": "Rhode Island School of Design",
+    "major": "Digital + Media",
+    "one": 97000,
+    "two": 97000
+  },
+  {
+    "id": "School of Visual Arts",
+    "major": "Interaction Design",
+    "one": 100200,
+    "two": 100200
+  },
+  {
+    "id": "Maryland Institute College of Art",
+    "major": "UX Design",
+    "one": 70305,
+    "two": 70305
+  },
+  {
+    "id": "Tufts University",
+    "major": "Human Factors Engineering",
+    "one": 51288,
+    "two": 51288
+  },
+  {
+    "id": "Bentley University",
+    "major": "Human Factors in Information Design",
+    "one": 46200,
+    "two": 46200
+  },
+  {
+    "id": "San Jose State University",
+    "major": "Human Factors and Ergonomics",
+    "one": 15592,
+    "two": 25096
+  },
+  {
+    "id": "Thomas Jefferson Univeristy",
+    "major": "User Experience and Interaction Design",
+    "one": 36270,
+    "two": 36270
+  },
+  {
+    "id": "Purdue University",
+    "major": "Computer Graphics Technology",
+    "one": 19984,
+    "two": 57588
+  },
+  {
+    "id": "Kent State University",
+    "major": "User experience design",
+    "one": 23072,
+    "two": 43048
+  },
+  {
+    "id": "Pratt Institute",
+    "major": "Information Experience Design",
+    "one": 66492,
+    "two": 66492
+  },
+  {
+    "id": "Indiana University Purdue University Indianapolis",
+    "major": "Human Computer Interaction",
+    "one": 12852,
+    "two": 35182
+  },
+  {
+    "id": "Depaul University",
+    "major": "Human Computer Interaction",
+    "one": 44200,
+    "two": 44200
+  },
+  {
+    "id": "Lowa State University",
+    "major": "Human Computer Interaction",
+    "one": 21008,
+    "two": 49532
+  },
+  {
+    "id": "University of North Texas",
+    "major": "Design",
+    "one": 6834,
+    "two": 18744
+  }
+]
