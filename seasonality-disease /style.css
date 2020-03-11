@@ -11,6 +11,7 @@
 
     .interactive_container {
         position: relative;
+        max-with:700px;
     }
     /* #header {
         width: 30%;
